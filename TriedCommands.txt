@@ -1,0 +1,222 @@
+
+// Removed all Irrelevant History prior these module.
+
+  491  cd Desktop/LHTraining
+  492  ls
+  493  git init
+  494  git add README.md
+  495  git commit -m "This is First Commit"
+  496  git branch -M main
+  497  git remote add origin https://github.com/usernameofaman/LHTraining.git
+  498  git push -u origin main
+  499  git push -u origin main
+  500  git remote rm
+  501  git remote remove
+  502  git remote
+  503  git remote remove origin
+  504  git remote add origin https://github.com/usernameofaman/LHTraining.git
+  505  git push -u origin main
+  506  git branch -M main
+  507  git add .
+  508  git commit -m "This is First Commit"
+  509  git branch -M main
+  510  git push -u origin main
+  511  git add .
+  512  git commit -m "This is First Commit"
+  513  git branch -M main
+  514  git push -u origin main
+  515  gir checkout
+  516  git checkout
+  517  git fetch --all
+  518  git checkout -b
+  519  git branch
+  520  git branch developement
+  521  git branch
+  522  git checkout -b
+  523  git checkout -b developement
+  524  git checkout
+  525  git checkout developement
+  526  git branch
+  527  git add .
+  528  git commit -m "New Branch"
+  529  git push -m developement
+  530  git push -u developement
+  531  git push -u origin
+  532  git push -u origin main
+  533  git push -u origin developement
+  534  git branch new-feature
+  535  git checkout
+  536  git checkout new-feature
+  537  git add .
+  538  git commit -m "Third Branch
+exit
+  539  git commit -m "Third Branch"
+  540  git add .
+  541  git commit -m "Third Branch"
+  542  git push -u origin new-feature
+  543  git add .
+  544  git status
+  545  git status
+  546  git commit -m "1 Single Line added"
+  547  git add .
+  548  git commit -m "1 line added"
+  549  git status
+  550  git push
+  551  git submodule add https://bitbucket.org/jaredw/awesomelibrary
+  552  git status
+  553  git add .gitmodules awesomelibrary/
+  554  git commit -m "added submodule"
+  555  git push
+  556  cd ..
+  557  mkdir SW
+  558  cd sw
+  559  ls
+  560  echo "# submodule-workshop" >> README.md
+  561  git init
+  562  git add READ.md
+  563  git add readme.md
+  564  ls
+  565  git commit -m "Before adding submodule"
+  566  git add .
+  567  git commit -m "Before adding submodule"
+  568  git push -u origin master
+  569  git remote add origin https://github.com/usernameofaman/submodule-workshop.git
+  570  git push -u origin main
+  571  git status
+  572  git add .
+  573  git commit -m "Before adding submodule"
+  574  git add .
+  575  git commit -m "Before adding submodule"
+  576  git push -u origin main
+  577  git remote
+  578  git remote remove origin
+  579  git remote add origin https://github.com/usernameofaman/submodule-workshop.git
+  580  git branch -M main
+  581  git push -u origin main
+  582  git submodule add https://bitbucket.org/jaredw/awesomelibrary
+  583  git status
+  584  git add .gitmodules awesomelibrary/
+  585  git commit -m "added submodule"
+  586  git push
+  587  git remote
+  588  git remote remove origin
+  589  git add remote https://github.com/usernameofaman/LHTraining.git
+  590  git remote add https://github.com/usernameofaman/LHTraining.git
+  591  git remote add https://github.com/usernameofaman/LHTraining.git
+  592  git remote add https://github.com/usernameofaman/LHTraining.git -m
+  593  git remote add https://github.com/usernameofaman/LHTraining.git -master
+  594  git remote -
+  595  git remote -v
+  596  git remote add origin https://github.com/usernameofaman/LHTraining.git -master
+  597  clear
+  598  git add .
+  599  git commit "This is going to create conflict"
+  600  git commit -m "This is going to create conflict"
+  601  git push
+  602  git push -u origin main
+  603  git push -u origin main
+  604   git pull
+  605  git pull origin new-features
+  606  git pull origin
+  607  git pull origin new-feature
+  608  git pull
+  609  git config --global
+  610  git pull
+  611  git remote add origin https://github.com/usernameofaman/Project.git
+  612  git remote
+  613  git remote remove origin
+  614  git remote
+  615  git remote add origin https://github.com/usernameofaman/Project.git
+  616  git add .
+  617  git commit "First"
+  618  git commit -m "First"
+  619  git add .
+  620  git push
+  621  git push -m origin master
+  622  git push -u origin master
+  623  git git branch -M master
+  624  git branch -M master
+  625  git git branch -M master
+  626  git push -u origin master
+  627  ls
+  628  cd ..
+  629  ls
+  630  cd Assignment
+  631  git remote remove origin
+  632  git remote
+  633  git init
+  634  git remote add origin https://github.com/usernameofaman/Project.git
+  635  clear
+  636  git add .
+  637  git commit -m "New Commit"
+  638  git push -u origin master
+  639  git pull
+  640  git remote
+  641  git remote remove origin
+  642  git remote add git remote add origin https://github.com/usernameofaman/FirstModuleWorkshop0.git
+  643  git remote add origin git remote add origin https://github.com/usernameofaman/FirstModuleWorkshop0.git
+  644  git init
+  645  git remote add git remote add origin https://github.com/usernameofaman/FirstModuleWorkshop0.gi
+  646  git remote add origin git remote add origin https://github.com/usernameofaman/FirstModuleWorkshop0.git
+  647  git remote add origin git remote add origin https://github.com/usernameofaman/FirstModuleWorkshop
+  648  git remote add origin https://github.com/usernameofaman/FirstModuleWorkshop0.git
+  649  clear
+  650  git add .
+  651  git commit "First commit"
+  652  git branch -M main
+  653  git commit -m "First Commit"
+  654  git push -u origin master
+  655  git pus
+  656  git branch -m MAin
+  657  git branch -m Main
+  658  git push
+  659  clear
+  660  git push -u origin main
+  661  git echo read.md
+  662  clear
+  663  git add .
+  664  git commit -m "Fixed FIles"
+  665  git push
+  666  git add .
+  667  git commit -m "renamed Dataset to test out quickly"
+  668  git push
+  669  git branch Algorithm only
+  670  git branch Algorithm
+  671  git checkout Algorithm
+  672  git add .
+  673  git push
+  674  git push -u origin master
+  675  git add .
+  676  git commit -m "Removed additional Statement just to make algorithm through the lines"
+  677  git push
+  678  git push -u origin master
+  679  git branch
+  680  git push
+  681  git push -u origin Algorithm
+  682  cd ..
+  683  cd Linux\ Command/
+  684  ls
+  685  grep "Jane Williams" name.txt
+  686  grep "Jane Williams" name.txt
+  687  grep "John Williams" names.txt
+  688  grep "John Williams" name.txt
+  689  grep -w "John Williams" name.text
+  690  grep -w "John Williams" name.txt
+  691  clear
+  692  grep -wi "John Williams" name.txt
+  693  history > history.txt
+  694  grep -win "John Williams" name.txt
+  695  grep -win -B "John Williams" name.txt
+  696  grep -win -B 4 "John Williams" name.txt
+  697  grep -win -A 4 "John Williams" name.txt
+  698  grep -win -C 2 "John Williams" name.txt
+  699  grep -win "John Williams" ./*
+  700  grep -win "John Williams" ./*.txt
+  701  grep -winr "John Williams" .
+  702  grep -winrl "John Williams" .
+  703  grep -winrc "John Williams" .
+  704  history
+  705  history | grep "git commit"
+  706  history | grep "git commit" | grep "txt"
+  707  history > Tried Commands.txt
+  708  history > TriedCommands.txt
